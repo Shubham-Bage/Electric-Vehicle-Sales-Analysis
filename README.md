@@ -7,7 +7,7 @@ AtliQ Motors is a leading automotive giant from the USA, specializing in electri
 As a hypothetical applicant for this role, I was tasked with:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‣ Begin your analysis by referring to the ‘primary_and_secondary_questions.pdf’ - there are
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15 problems for which the business needs insights.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;15 problems for which the business needs insights.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‣ You need to write several Dax measures and need to use the necessary tools to answer these
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;questions.
@@ -27,11 +27,12 @@ As a hypothetical applicant for this role, I was tasked with:
 
 ‣ Presentation Design:
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Designed an engaging and professional presentation in Canva to effectively communicate the insights.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Designed an engaging and professional presentation in Canva to effectively communicate the &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;insights.
 
 ‣ Actionable Insights:
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Provided actionable insights and recommendations to assist the AtliQ Motors in making their strategic Plan.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Provided actionable insights and recommendations to assist the AtliQ Motors in making 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;their strategic Plan.
 
 # Project Outcome:
 This project enabled me to harness the full potential of Power BI for analyzing electric vehicle (EV) sales data, utilizing its robust capabilities to extract meaningful insights from complex datasets. By transforming raw data into actionable insights, I successfully supported data-driven decision-making processes. This hands-on experience not only enhanced my technical proficiency in Power BI but also solidified my confidence in addressing practical data challenges, showcasing my ability to deliver impactful business insights.
