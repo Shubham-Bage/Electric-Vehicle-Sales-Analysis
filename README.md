@@ -12,7 +12,7 @@ As a hypothetical applicant for this role, I was tasked with:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‣ You need to write several Dax measures and need to use the necessary tools to answer
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;these questions.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‣ Design a dashboard with your metrics and analysis. The dashboard should be self &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspexplanatory and easy to understand.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‣ Design a dashboard with your metrics and analysis. The dashboard should be self &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;explanatory and easy to understand.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‣ You can use additional data based on your own research to support your &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;recommendations and provide more insights.
 
@@ -41,6 +41,6 @@ This project enabled me to harness the full potential of Power BI for analyzing 
     
   ◘ primary_and_secondary_questions.pdf ‣&nbsp;&nbsp;&nbsp; Open this pdf to access 15 questions list.
     
-  ◘ EV_Analysis Presentation & Solutions:‣&nbsp;&nbsp;&nbsp; Open this pdf to access insights & Solutions.
+  ◘ EV_Analysis Presentation & Solutions ‣&nbsp;&nbsp;&nbsp; Open this pdf to access insights & Solutions.
 
 
